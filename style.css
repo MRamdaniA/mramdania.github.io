@@ -34,7 +34,7 @@ body {
   padding-block-end: 40px;
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 1.625rem;
   justify-content: space-between;
   box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0477);
 }
@@ -67,7 +67,4 @@ body {
   letter-spacing: 0.2px;
   color: var(--slate500);
   margin: 0;
-}
-.attribution {
-  margin-top: 45px;
 }
