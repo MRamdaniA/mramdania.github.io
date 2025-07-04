@@ -64,7 +64,7 @@ body {
   text-align: center;
   font-size: 0.9375rem; /*15px*/
   line-height: 140%;
-  letter-spacing: 0.2px;
+  letter-spacing: 0.013rem;
   color: var(--slate500);
   margin: 0;
 }
