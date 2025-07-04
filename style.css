@@ -30,8 +30,8 @@ body {
   max-width: 20rem;
   background-color: var(--customWhite);
   border-radius: 20px;
-  padding: 16px;
-  padding-bottom: 40px;
+  padding: 1em;
+  padding-block-end: 40px;
   display: flex;
   flex-direction: column;
   gap: 24px;
